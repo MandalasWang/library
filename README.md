@@ -1,4 +1,4 @@
-# springboot-BMSystem
+# springboot-library
 springboot+mybatis+mysql+thymeleaf+jquery构建的小型图书借阅管理系统  
 **后端**  
 1.springboot  
